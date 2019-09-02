@@ -1,0 +1,11 @@
+D:\Lab34\Lab03\Lab03\bin\Debug\Lab03.exe.config
+D:\Lab34\Lab03\Lab03\bin\Debug\Lab03.exe
+D:\Lab34\Lab03\Lab03\bin\Debug\Lab03.pdb
+D:\Lab34\Lab03\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+D:\Lab34\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+D:\Lab34\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.Cache
+D:\Lab34\Lab03\Lab03\obj\Debug\Lab03.exe
+D:\Lab34\Lab03\Lab03\obj\Debug\Lab03.pdb
+D:\Lab34\Lab03\Lab03\obj\Debug\Lab03.BT1.resources
+D:\Lab34\Lab03\Lab03\obj\Debug\Lab03.BT2.resources
+D:\Lab34\Lab03\Lab03\obj\Debug\Lab03.BT3.resources
